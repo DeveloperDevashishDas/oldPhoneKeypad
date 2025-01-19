@@ -1,0 +1,14 @@
+C:\Users\Devashish Das\source\repos\OldPhoneKeypad\OldPhoneKeypad\bin\Debug\netcoreapp3.0\OldPhoneKeypad.exe
+C:\Users\Devashish Das\source\repos\OldPhoneKeypad\OldPhoneKeypad\bin\Debug\netcoreapp3.0\OldPhoneKeypad.deps.json
+C:\Users\Devashish Das\source\repos\OldPhoneKeypad\OldPhoneKeypad\bin\Debug\netcoreapp3.0\OldPhoneKeypad.runtimeconfig.json
+C:\Users\Devashish Das\source\repos\OldPhoneKeypad\OldPhoneKeypad\bin\Debug\netcoreapp3.0\OldPhoneKeypad.runtimeconfig.dev.json
+C:\Users\Devashish Das\source\repos\OldPhoneKeypad\OldPhoneKeypad\bin\Debug\netcoreapp3.0\OldPhoneKeypad.dll
+C:\Users\Devashish Das\source\repos\OldPhoneKeypad\OldPhoneKeypad\bin\Debug\netcoreapp3.0\OldPhoneKeypad.pdb
+C:\Users\Devashish Das\source\repos\OldPhoneKeypad\OldPhoneKeypad\obj\Debug\netcoreapp3.0\OldPhoneKeypad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devashish Das\source\repos\OldPhoneKeypad\OldPhoneKeypad\obj\Debug\netcoreapp3.0\OldPhoneKeypad.AssemblyInfoInputs.cache
+C:\Users\Devashish Das\source\repos\OldPhoneKeypad\OldPhoneKeypad\obj\Debug\netcoreapp3.0\OldPhoneKeypad.AssemblyInfo.cs
+C:\Users\Devashish Das\source\repos\OldPhoneKeypad\OldPhoneKeypad\obj\Debug\netcoreapp3.0\OldPhoneKeypad.csproj.CoreCompileInputs.cache
+C:\Users\Devashish Das\source\repos\OldPhoneKeypad\OldPhoneKeypad\obj\Debug\netcoreapp3.0\OldPhoneKeypad.sourcelink.json
+C:\Users\Devashish Das\source\repos\OldPhoneKeypad\OldPhoneKeypad\obj\Debug\netcoreapp3.0\OldPhoneKeypad.dll
+C:\Users\Devashish Das\source\repos\OldPhoneKeypad\OldPhoneKeypad\obj\Debug\netcoreapp3.0\OldPhoneKeypad.pdb
+C:\Users\Devashish Das\source\repos\OldPhoneKeypad\OldPhoneKeypad\obj\Debug\netcoreapp3.0\OldPhoneKeypad.genruntimeconfig.cache
