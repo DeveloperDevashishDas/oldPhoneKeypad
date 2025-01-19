@@ -17,4 +17,5 @@ Output response as per the examples given in the requirement.
 
 **Please note No validations are added** 
 
-![OldPhoneOutput2](https://github.com/user-attachments/assets/d8f560d6-0ef0-496c-9aed-05e46d9d9a8d)
+![OldPhoneOutput2](https://github.com/user-attachments/assets/c5f6a873-8f19-4f33-afac-9df57ba712ad)
+
