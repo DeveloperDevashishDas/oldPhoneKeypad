@@ -12,7 +12,7 @@ namespace OldPhoneKeypad
                 StringBuilder addString = new StringBuilder();
 
             # region 
-            /*Dictionery with Key Value pair.Numbers as key and alphabets as its values*/
+            /*Dictionary with Key Value pair.Numbers as key and alphabets as its values*/
             Dictionary<string, string> dict = new Dictionary<string, string>
             {
                 {"2", "A"},{"22", "B"},{"222", "C" },
